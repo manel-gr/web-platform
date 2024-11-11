@@ -1,0 +1,37 @@
+/* headerstyle.css */
+
+/* Style for the main title */
+#main_title {
+    text-align: center;
+    color: #333; /* Dark gray color */
+}
+
+/* Style for the container */
+.container {
+    margin-top: 50px; /* Add space from the top */
+}
+
+/* Style for the buttons */
+.btn-group {
+    margin-top: 20px; /* Add space between the title and buttons */
+}
+
+.btn {
+    margin: 5px; /* Add some margin between buttons */
+}
+
+/* Style for links */
+.btn-secondary {
+    color: #fff; /* Text color */
+    background-color: #007bff; /* Button background color */
+    border-color: #007bff; /* Border color */
+}
+
+.btn-secondary:hover {
+    background-color: #0056b3; /* Darker background color on hover */
+    border-color: #0056b3; /* Darker border color on hover */
+}
+
+.btn-secondary:focus, .btn-secondary.focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); /* Focus effect */
+}
