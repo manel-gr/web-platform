@@ -43,5 +43,6 @@ Framework CSS : Bootstrap
 
 # Auteurs
 Manel Garmachi – Développeuse principale
+
 Ranim Cherif – Développeuse principale
 
